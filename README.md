@@ -19,3 +19,6 @@
 ```python
 pip install mecab-python3 unidic-lite
 ```
+### ４）markov.pyを実行
+私の場合はPyCharmを使用。
+⚠使い方についてはガイドがあるので基本的には大丈夫だと思います。
