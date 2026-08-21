@@ -11,3 +11,11 @@
 &nbsp;
 [![【自動生成】入賞作品から作文を生成したら素晴らしい文章ができる説](youtube3.jpg)](https://www.youtube.com/watch?v=1OfCyavg_ZE&t=80s)
 
+## 使用方法等
+### １）付属のPythonファイル（markov.py）をダウンロード後、Python環境を開く。
+### ２）データアセット（japan.txt）を同じフォルダ内に置く。
+※このアセットの中身はWikipedia日本版「日本」のページの文章を、あらかじめ（）や「」等学習の妨げになる不純物をなくした状態の文章です。ライセンスに関してはCC BY-SA 4.0が適応されます。また、生成された文章の著作権等は曖昧なため、個人的な仕様にとどめてください。また、Pythonコードのファイル名のところのjapan.txtの名前を変え、別途データを用意すれば学習させるデータを変えることができます。
+### ３）MeCab導入
+```python
+pip install mecab-python3 unidic-lite
+```
