@@ -11,5 +11,3 @@
 &nbsp;
 [![【自動生成】入賞作品から作文を生成したら素晴らしい文章ができる説](youtube3.jpg)](https://www.youtube.com/watch?v=1OfCyavg_ZE&t=80s)
 
-## 使用中の画面
-<img src="サムネイル/左画像.jpg" alt="コムドットやまと" width="45%" style="margin-right: 20px;">
