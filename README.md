@@ -5,7 +5,6 @@
 
 -ラムダ技術部の動画の検証もしてみたかった。
 ### 参考動画（ラムダ技術部）はこちらから
-[![【道を開けろ】AIでコムドットやまと風の名言を作ろう（敬称略）](youtube1.jpg)](https://www.youtube.com/watch?v=x5AwzoQgt3E)<br>
-<sub>【道を開けろ】AIでコムドットやまと風の名言を作ろう（敬称略）</sub>
-[![【道を開けろ】AIでコムドットやまと風の名言を作ろう（敬称略）](youtube1.jpg)](https://www.youtube.com/watch?v=x5AwzoQgt3E)<br>
-<sub>【道を開けろ】AIでコムドットやまと風の名言を作ろう（敬称略）</sub>
+[![【道を開けろ】AIでコムドットやまと風の名言を作ろう（敬称略）](youtube1.jpg)](https://www.youtube.com/watch?v=x5AwzoQgt3E)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![【数値化】言葉の足し算をするAIで遊んでみた](youtube2.jpg)](https://www.youtube.com/watch?v=sK3HqLwag_w&t=1s&sttick=0)
